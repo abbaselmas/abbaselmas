@@ -7,17 +7,17 @@
 
 - 👯 looking to collaborate on **Web3 projects.**
 
-- 👨‍💻 projects are available at [https://aa.bbs.tr/project](aa.bbs.tr/project)
+- 👨‍💻 projects are available at [aa.bbs.tr/project](https://aa.bbs.tr/project)
 
-- 📝 write articles on [https://abbaselmas.com](abbaselmas.com)
+- 📝 write articles on [abbaselmas.com](https://abbaselmas.com)
 
 - 💬 Ask me about **opencv, feature extraction questions. (my PhD topics)**
 
 - 📫 How to reach me **abbaselmas@gmail.com or aelmas@cu.edu.tr**
 
-- 📄 academic papers at [https://aa.bbs.tr/publication](aa.bbs.tr/publication)
+- 📄 academic papers at [aa.bbs.tr/publication](https://aa.bbs.tr/publication)
 
-- ⚡ Lecturing content [https://aa.bbs.tr/lab](aa.bbs.tr/lab)
+- ⚡ Lecturing content [aa.bbs.tr/lab](https://aa.bbs.tr/lab)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
