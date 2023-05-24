@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
-<h3 align="center">A tech savy geek from Adana,Turkey</h3>
+<h3 align="center">A tech savy geek from Adana, Turkey</h3>
 
 - 🔭 working on **my PhD thesis.**
 
