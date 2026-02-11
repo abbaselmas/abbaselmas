@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abbas</h1>
-<h3 align="center">A tech savy geek from Adana, Turkey</h3>
+<h3 align="center">A tech savy geek from Adana, Çukurova University</h3>
 
-- 🔭 working on **my PhD thesis.**
-
-- 🌱 I’m currently learning **javascript, solidity, and golang.**
-
-- 👯 looking to collaborate on **Web3 projects.**
+- 👯 looking to collaborate on **Computer Vision projects.**
 
 - 👨‍💻 projects are available at [aa.bbs.tr/project](https://aa.bbs.tr/project)
 
